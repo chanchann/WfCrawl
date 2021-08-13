@@ -1,0 +1,5 @@
+/home/pro/WfCrawl/build/CMakeFiles/rebuild_cache.dir
+/home/pro/WfCrawl/build/CMakeFiles/edit_cache.dir
+/home/pro/WfCrawl/build/crawl/CMakeFiles/rebuild_cache.dir
+/home/pro/WfCrawl/build/crawl/CMakeFiles/edit_cache.dir
+/home/pro/WfCrawl/build/crawl/CMakeFiles/wcrawl.dir
